@@ -1,2 +1,2 @@
 # SQL_Files
-These are the queries executed by me
+MS SQL Server is a database management system developed on 1989. It is one of the easiest SQL based software primarily used to manage, query, maniulate, restrict large relational database. When I developed my interests in executing SQL queries for fetching the insights of dataset I found it very joyful, this system comes with a lot of easy and comprehensive concepts. I have done few projects using Transact-SQL. You can have a look at them for your better understanding, and I really extol the performance and functionality of SQL Server. I am on the path of learning and being the patron of Microsoft utensils, I am looking forward to having real-time experience in that. I need your blessing and support. Enjoy the repo.    
